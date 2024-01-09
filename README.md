@@ -1,7 +1,7 @@
 
 ## <p align="center"> Página de notícias <a href="LICENSE"> <img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=&labelColor=202024" alt="License"></a> </p>
 
-É uma aplicação para calcular o Índice de Massa Corporal
+É uma aplicação mostrar noticias
 ## 🔖 Demonstração
 
 https://github.com/GabrieldosSantosOliveira/atividade-02-PTS1/assets/86084272/30869219-82b8-4370-aa3e-87596a433ded
